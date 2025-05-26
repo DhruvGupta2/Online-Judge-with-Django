@@ -10,6 +10,24 @@ This platform supports **user authentication**, **role-based access**, **problem
 
 ---
 
+## 🖼️ Demo Screenshots
+
+### 🔐 Login Page
+
+<img src="assets/login.png" alt="Login Page" width="700"/>
+
+---
+
+### 📋 Problem List
+
+<img src="assets/problem_list.png" alt="Problem List" width="700"/>
+
+---
+
+### 💻 Code Editor with Custom Input
+
+<img src="assets/code_editor.png" alt="Code Editor" width="700"/>
+
 ## 🚀 Features
 
 <details>
@@ -62,8 +80,6 @@ This platform supports **user authentication**, **role-based access**, **problem
 | Frontend     | HTML, CSS, Bootstrap, JavaScript |
 | Backend      | Django (Python)         |
 | Database     | SQLite                  |
-| Code Editor  | ACE/CodeMirror (optional) |
-| Deployment   | Localhost / Heroku / Render |
 
 ---
 
