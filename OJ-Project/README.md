@@ -12,21 +12,33 @@ This platform supports **user authentication**, **role-based access**, **problem
 
 ## 🖼️ Demo Screenshots
 
+### 🔐 Front Page
+
+<img src="assets/indexpage.jpg" alt="Login Page" width="700"/>
+
+---
+
 ### 🔐 Login Page
 
-<img src="assets/login.png" alt="Login Page" width="700"/>
+<img src="assets/login.jpg" alt="Login Page" width="700"/>
 
 ---
 
 ### 📋 Problem List
 
-<img src="assets/problem_list.png" alt="Problem List" width="700"/>
+<img src="assets/list.jpg" alt="Problem List" width="700"/>
 
 ---
 
 ### 💻 Code Editor with Custom Input
 
-<img src="assets/code_editor.png" alt="Code Editor" width="700"/>
+<img src="assets/detail.jpg" alt="Code Editor" width="700"/>
+
+---
+
+### 🔐 Submit Page
+
+<img src="assets/submit.jpg" alt="Login Page" width="700"/>
 
 ## 🚀 Features
 
