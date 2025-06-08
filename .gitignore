@@ -1,0 +1,11 @@
+myenv
+.env
+db.sqlite3
+commands.txt
+__pycache__/
+*.pyc
+codes
+inputs
+outputs
+.dockerignore
+keys

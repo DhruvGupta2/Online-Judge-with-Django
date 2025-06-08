@@ -1,0 +1,6 @@
+django
+google-genai
+python-dotenv
+google-generativeai
+grpcio
+google-api-core[grpc]
